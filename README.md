@@ -1,2 +1,4 @@
 # reverse
-I'm trying to run my version of reverse me , and I am pleased to have help in areas I show downfall.
+- To run my version of reverse 
+- To have the easiest possible code to penetrate 'MSGR'
+- Where I may fall I ask for help stringing it together properly 
